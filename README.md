@@ -3,7 +3,7 @@ This Algorithm is to implement the Karger's Algorithm which aims to find the min
 
 ->Here is an example of a test made on a randomly generated graph with 79 vertices and runing the Karger's Algorithm 6241 times
 
-#TEST1
+#TEST1(/n)
 number of vertices : 79
 Iteration to be made: 6241
 Printing graph...(<vertex id>: <connected vertices>)
